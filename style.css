@@ -12,30 +12,28 @@ h1 {
 }
 
 #input {
-  z-index: 2;
   position: relative;
   height: 50px;
   width: 295px;
   left: 15px;
-  font-size: 40px;
-  top: -180px;
-  
+  font-size: 32px;
+  top: 15px;
 }
 
 .number {
   position: relative;
-  background-color: rgb(212, 158, 208);
+  background-color: rgb(170, 158, 212);
   border-style: double;
   border-color: rgb(221, 206, 206);
   border-radius: 50%;
   text-overflow:unset;
   padding: 20px 20px;
-  right: 290px;
-  top: 120px;
+  left: 10px;
+  top: 50px;
   width: 18px;
   text-align: center;
   border-width: 8px;
-  z-index: 1;
+  
 }
 
 .inline {
